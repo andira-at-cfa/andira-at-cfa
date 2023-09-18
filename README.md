@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on step functions and Lambdas
+- 💬 Ask me about Python development in AWS
+- 📫 How to reach me: andira.putri@cfacorp.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun facts: I have two staffy/pitbull mixes named Jimmy and Bean. My dream is to build a home with an endless garden, chicken coop, and plenty of room for my (future) foster animals to play!
+
 <!--
 **andira-at-cfa/andira-at-cfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
