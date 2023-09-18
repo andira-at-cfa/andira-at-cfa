@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on step functions and Lambdas
-- 💬 Ask me about Python development in AWS
+- 💬 Ask me about CFA tools!
 - 📫 How to reach me: andira.putri@cfacorp.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun facts: I have two staffy/pitbull mixes named Jimmy and Bean. My dream is to build a home with an endless garden, chicken coop, and plenty of room for my (future) foster animals to play!
