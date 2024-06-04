@@ -4,4 +4,4 @@
 - 💬 Ask me about CFA DevOps tools!
 - 📫 How to reach me: andira.putri@cfacorp.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun facts: I have two staffy/pitbull mixes named Jimmy and Bean. My foster baby, Niko, is a pitbull who joined the pack right after Staff Summit 2023. I've been listening to Taylor Swift since 2006 - my favorite eras are reputation and evermore 🐍🌲 
+- ⚡ Fun facts: I have three staffy/pitbull mixes named Jimmy, Bean, and Niko. My happy place is the patio garden, where I have 4 sungold tomato plants, giant zinnias, cucamelon vines, and 7 different pepper varieties! 
